@@ -1,0 +1,26 @@
+[
+    {
+        "id" : 1,
+        "nome" : "Carpaccio fresco",
+        "preco" : 65.50,
+        "igrediente" : "Entrada Carpaccio de salmão com cítricos" 
+    },
+    {
+        "id" : 2 ,
+        "nome" : "Risotto de berinjela", 
+        "preco" : 47.01,
+        "igrediente" : "Risotto de berinjela e queijo de cabra"
+    },
+    {
+        "id" : 3,
+        "nome" : "Mousse de arroz",
+        "preco" : 27.50,
+        "igrediente" : "Mousse de arroz com leite e aroma de flor de laranjeira"
+    },
+    {
+        "id" : 4,
+        "nome" : "Aspargos brancos",
+        "preco" : 37.50,
+        "igrediente" : "Aspargos brancos com vinagrete de legumes e presunto ibérico"
+    }
+]
